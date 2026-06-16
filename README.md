@@ -1,6 +1,8 @@
 # FinSight - AI Financial Coach for Indian Students
 
-A full-stack financial management application built for the InnovaHack FinTech Domain challenge. Stop tracking the past, start predicting your future.
+Stop tracking the past. Start predicting your future.
+
+FinSight is an AI-powered financial wellness platform that helps users understand spending patterns, forecast future cash flow, evaluate financial decisions, and build healthier money habits through personalized insights and predictive analytics.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![React](https://img.shields.io/badge/React-18-blue)
